@@ -1,0 +1,6 @@
+#librerias que vamos a usar
+sqlalchemy
+pymysql
+python-dotenv
+typer
+rich
